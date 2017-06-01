@@ -52,7 +52,7 @@ int main()
                     c1=j;
                 }
                 else
-                    if(c[j]>min)
+                    if(c[j]>max)
                     {
                     max=c[j];
                     c1=j;
